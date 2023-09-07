@@ -17,7 +17,7 @@
     'website': "http://www.odooland.com",
     'support': "odooland.dev@gmail.com",
     'category': "Themes/Backend",
-    'depends': ['base', 'web', 'mail', 'web_enterprise'],
+    'depends': ['base', 'web', 'mail', 'web_responsive'],
     'images': ['static/description/logo.png'],
     'Live_test_url':'demo.odooland.com',
     'assets': {
